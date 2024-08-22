@@ -1,3 +1,5 @@
+## run this file by passing a audio file as a agrument python filename.py --audio_file audioFileName
+
 import argparse
 import os
 import numpy as np
